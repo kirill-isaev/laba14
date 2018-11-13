@@ -2,6 +2,8 @@
 
 Данная лабораторная работа посвещена изучению инструментов подписывания и верификации исполняемых файлов на примере **codesign**
 
+Для моего дистрибутива нет пакета содержащего команду **codesign**.
+
 ```ShellSession
 $ open http://bd808.com/blog/2013/10/21/creating-a-self-signed-code-certificate-for-xcode/
 ```
@@ -84,10 +86,6 @@ $ gistup -m "lab${LAB_NUMBER}"
 - [Code Sign macOS](https://www.digicert.com/code-signing/mac-os-codesign-tool.htm)
 - [Code Sign Windows](https://msdn.microsoft.com/ru-ru/library/windows/desktop/aa380259(v=vs.85).aspx)
 - [Code Sign Unix](https://github.com/bartman/elfgpg)
-
-
-Для моего дистрибутива нет пакета содержащего команду codesign.
-
 ```
 Copyright (c) 2017 Братья Вершинины
 ```
