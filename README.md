@@ -1,2 +1,3 @@
-[![Build Status](https://travis-ci.org/Alexey01M/lab10.svg?branch=master)](https://travis-ci.org/Alexey01M/lab10)
-the demo application redirects data from stdin to a file **log.txt** using a package **print**.
+[![Build Status](https://travis-ci.org/Alexey01M/lab12.svg?branch=master)](https://travis-ci.org/Alexey01M/lab12)
+the demo application redirects data from stdin to a file **lo.txt** using a package **print**.
+Chaving the path environment variable value **LOG_PATH**<ESC>
