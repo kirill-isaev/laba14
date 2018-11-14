@@ -14,12 +14,12 @@ $ open http://bd808.com/blog/2013/10/21/creating-a-self-signed-code-certificate-
 - [x] 2. Ознакомиться со ссылками учебного материала
 - [x] 3. Сгенерировать самоподписанный сертификат
 - [x] 4. Выполнить инструкцию учебного материала
-- [x] 5. Составить отчет и отправить ссылку личным сообщением в **Slack**
+
 
 ## Tutorial
 
 ```ShellSession
-$ export GITHUB_USERNAME=Alexey01M
+$ export GITHUB_USERNAME=kirill-isaev
 ```
 
 ```ShellSession
